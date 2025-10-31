@@ -1,2 +1,5 @@
 # OlaMundo
-Primeiro_Repositorio_Versionado de Git e GitHub
+Primeiro repositorio do Curso de Git e GitHub
+
+Criado na aula de Git e GitHub
+  
